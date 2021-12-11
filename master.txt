@@ -1,3 +1,0 @@
-This is my learning file!!
-
-I am Learning git!!
